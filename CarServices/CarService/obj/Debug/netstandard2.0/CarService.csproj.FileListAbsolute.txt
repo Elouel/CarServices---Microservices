@@ -1,0 +1,8 @@
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netstandard2.0\CarService.deps.json
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netstandard2.0\CarService.dll
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netstandard2.0\CarService.pdb
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netstandard2.0\CarService.csprojAssemblyReference.cache
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netstandard2.0\CarService.AssemblyInfoInputs.cache
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netstandard2.0\CarService.AssemblyInfo.cs
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netstandard2.0\CarService.dll
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netstandard2.0\CarService.pdb

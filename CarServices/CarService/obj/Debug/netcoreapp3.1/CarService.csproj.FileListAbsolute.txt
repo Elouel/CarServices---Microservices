@@ -1,0 +1,9 @@
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netcoreapp3.1\CarService.deps.json
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netcoreapp3.1\CarService.dll
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\bin\Debug\netcoreapp3.1\CarService.pdb
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.AssemblyInfoInputs.cache
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.AssemblyInfo.cs
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.csproj.CoreCompileInputs.cache
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.dll
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.pdb
+C:\Users\ivelin.evtimov\source\repos\CarService\CarServices\CarService\obj\Debug\netcoreapp3.1\CarService.csprojAssemblyReference.cache
